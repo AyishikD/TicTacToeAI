@@ -1,7 +1,7 @@
 <h1 align="center">Tic Tac Toe with AI</h1>
 
 <p align="center">
-  <img src="tic-tac-toe.png" alt="Tic Tac Toe" width="400" />
+  <img src=![image](https://github.com/AyishikD/TicTacToeAI/assets/99983449/f2574643-8772-4b4e-b2c6-9412ee5512b7) />
 </p>
 
 <p align="center">
