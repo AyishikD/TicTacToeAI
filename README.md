@@ -1,7 +1,7 @@
 <h1 align="center">Tic Tac Toe with AI</h1>
 
 <p align="center">
-<img src="images/tic.png" alt="Tic Tac Toe" width="400" />
+<img src="./images/Tic.png" alt="Tic Tac Toe" width="400" />
 </p>
 
 <p align="center">
