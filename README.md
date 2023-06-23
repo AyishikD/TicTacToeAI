@@ -24,7 +24,7 @@
 
 ## Demo
 
-You can play the game online by visiting the ticai.netlify.app .
+You can play the game online by visiting the https://ticai.netlify.app/.
 
 ## Getting Started
 
